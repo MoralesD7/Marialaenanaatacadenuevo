@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class calcu_1 {
+public class operaciones {
     
     public static void main (String args []){
             System.out.println("Bienvenido a tu calculadora de dos digitos ");
